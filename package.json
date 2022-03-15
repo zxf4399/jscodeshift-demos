@@ -1,0 +1,18 @@
+{
+  "name": "jscodeshift-demos",
+  "version": "1.0.0",
+  "description": "a collection of simple demos of jscodeshift",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxf4399/jscodeshift-demos.git"
+  },
+  "keywords": [
+    "jscodeshift"
+  ],
+  "author": "zxf4399",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxf4399/jscodeshift-demos/issues"
+  },
+  "homepage": "https://github.com/zxf4399/jscodeshift-demos#readme"
+}
